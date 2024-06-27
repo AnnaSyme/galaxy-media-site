@@ -8,6 +8,7 @@ fetch_taxonomies/outputs/
 scripts/mail/unsubscribed/*.txt
 scripts/mail/*.csv
 venv*
+v3.12
 # Deploy conf
 .vault.pass
 
